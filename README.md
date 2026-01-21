@@ -176,11 +176,3 @@ Aspiring Data Scientist | Machine Learning Enthusiast
 * Kaggle for providing the dataset
 * Scikit-learn & NLTK documentation
 * Open-source community
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** – feel free to use and modify it.
-
-
